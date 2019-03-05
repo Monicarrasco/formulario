@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FormularioCurso</string>
+    <string name="Titulo">Formulario</string>
+    <string name="Nombre_completo">Nombre Completo</string>
+    <string name="Fecha">Seleccione la Fecha de Nacimiento</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="descripcion">Descripción del Contacto</string>
+    <string name="siguiente">Siguiente</string>
+    <string name="Confirmar">Confirmar Datos</string>
+    <string name="nombre">Mónica Carrasco</string>
+    <string name="fecha">20-10-96</string>
+    <string name="telefono">5518566780</string>
+    <string name="correo">moni@gmail.com</string>
+    <string name="descrip">Hola</string>
+    <string name="editar">Editar Datos</string>
+    <string name="pnombre">nombre</string>
+    <string name="pfecha">fecha</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescrip">descripcion</string>
+</resources>
